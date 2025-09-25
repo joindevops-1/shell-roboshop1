@@ -1,6 +1,6 @@
 #!/bin/bash
 
-source script2.sh
+source $PWD/script2.sh
 
 NAME=SCRIPT-1
 
